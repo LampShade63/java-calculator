@@ -45,8 +45,36 @@ public class BasicCalculator extends JFrame
     public double add ()
     {
     }
-
-    public double squareRoot() {
-
+    //Allows the subtraction function
+    public void subtract() 
+    {
+    }
+    //Allows the square root function
+    public void squareRoot() 
+    {
+    }
+    //Allows the multiplication function
+    public void multiply () 
+    {
+    }
+    //Allows the division function
+    public void divide() 
+    { 
+    }
+    //Allows the square function
+    public void square() 
+    {
+    }
+    //Allows the equals function
+    public void result() 
+    {
+    }
+    //Allows the calculator screen to be cleared
+    public void clear() 
+    {
+    }
+    //Allows a deletion from the screen
+    public void delete() 
+    {
     }
 }
